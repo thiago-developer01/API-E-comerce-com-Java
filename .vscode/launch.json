@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EcomerceApplication<ecomerce>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "org.edu.unifaa.ecomerce.EcomerceApplication",
+            "projectName": "ecomerce",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
